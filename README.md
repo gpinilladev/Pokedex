@@ -4,7 +4,7 @@
 Test
 
 ##### 📸 Captura de pantalla:
-![alt text](https://live.staticflickr.com/65535/52784117311_afc5aa9d7f_h.jpg)
+![alt text](https://live.staticflickr.com/65535/52784950481_b57354535c_h.jpg)
 
 ### [Demo](https://gpinilladev.github.io/Pokedex/)
 
